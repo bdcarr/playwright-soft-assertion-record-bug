@@ -1,0 +1,25 @@
+{
+  "name": "playwright-soft-assertion-record-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test --project=chromium"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdcarr/playwright-soft-assertion-record-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdcarr/playwright-soft-assertion-record-bug/issues"
+  },
+  "homepage": "https://github.com/bdcarr/playwright-soft-assertion-record-bug#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.40.1",
+    "@types/node": "^20.10.5",
+    "typescript": "^5.3.3"
+  }
+}
